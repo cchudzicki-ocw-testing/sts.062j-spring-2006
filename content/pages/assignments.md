@@ -39,7 +39,7 @@ AUTHORS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Why in Baseball is Using Steroids Considered Cheating?" ({{< resource_link 2290e2f6-71dd-5f61-5e7f-0d2cf8a687c9 "PDF" >}})
+"Why in Baseball is Using Steroids Considered Cheating?" ({{% resource_link 2290e2f6-71dd-5f61-5e7f-0d2cf8a687c9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Brian Chase
@@ -48,7 +48,7 @@ Brian Chase
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"How to Improve the National Drug Control Strategy to Win the War on Drugs" ({{< resource_link 09cf7e7b-2e67-30e4-6128-ef53d31b356c "PDF" >}})
+"How to Improve the National Drug Control Strategy to Win the War on Drugs" ({{% resource_link 09cf7e7b-2e67-30e4-6128-ef53d31b356c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Anonymous
@@ -57,7 +57,7 @@ Anonymous
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Methamphetamine: Dangerous Drug Craze and Toxic Pollutant" ({{< resource_link 64631480-21b1-8dad-0f59-01d71b1af4f8 "PDF" >}})
+"Methamphetamine: Dangerous Drug Craze and Toxic Pollutant" ({{% resource_link 64631480-21b1-8dad-0f59-01d71b1af4f8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Anonymous
@@ -66,7 +66,7 @@ Anonymous
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Truth or DARE?" ({{< resource_link f91d3eb8-6841-6763-ec80-6f0fe73bc4d4 "PDF" >}})
+"Truth or DARE?" ({{% resource_link f91d3eb8-6841-6763-ec80-6f0fe73bc4d4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Paresh Agarwal
@@ -75,7 +75,7 @@ Paresh Agarwal
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Comparison of Exchange Students' Views of the Drinking Culture of MIT and Cambridge" ({{< resource_link af4d6047-dc17-c5e7-474c-80337daffc26 "PDF" >}})
+"Comparison of Exchange Students' Views of the Drinking Culture of MIT and Cambridge" ({{% resource_link af4d6047-dc17-c5e7-474c-80337daffc26 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Amy Wu
@@ -84,7 +84,7 @@ Amy Wu
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Emergency Contraception and Refusal Clauses: A Threat to Women" ({{< resource_link e51ac192-9e18-8e00-2331-fad00e336e1a "PDF" >}})
+"Emergency Contraception and Refusal Clauses: A Threat to Women" ({{% resource_link e51ac192-9e18-8e00-2331-fad00e336e1a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Francesca Bartolomey
@@ -93,7 +93,7 @@ Francesca Bartolomey
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Rights of Pharmacists versus the Rights of Women: The Morning-After Pill" ({{< resource_link eef47707-2908-784d-7efe-b8819889ef8d "PDF" >}})
+"Rights of Pharmacists versus the Rights of Women: The Morning-After Pill" ({{% resource_link eef47707-2908-784d-7efe-b8819889ef8d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Melissa Tanner
@@ -102,7 +102,7 @@ Melissa Tanner
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"The Cocaine Sentencing Disparity" ({{< resource_link 824bde92-51d4-395b-cddc-35739df2363b "PDF" >}})
+"The Cocaine Sentencing Disparity" ({{% resource_link 824bde92-51d4-395b-cddc-35739df2363b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 David Levenson
@@ -111,7 +111,7 @@ David Levenson
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Is Taking Ritalin Cheating?" ({{< resource_link 0cad0df1-919f-e968-de59-1fa3b029d3f2 "PDF" >}})
+"Is Taking Ritalin Cheating?" ({{% resource_link 0cad0df1-919f-e968-de59-1fa3b029d3f2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Matt Angle
@@ -120,7 +120,7 @@ Matt Angle
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Beavers and Prozac®: Antidepressants at MIT" ({{< resource_link 0db319ef-0944-8dce-77ac-eea90a1e8eb3 "PDF" >}})
+"Beavers and Prozac®: Antidepressants at MIT" ({{% resource_link 0db319ef-0944-8dce-77ac-eea90a1e8eb3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Analucia Berry
@@ -129,7 +129,7 @@ Analucia Berry
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Speed Culture in the Digital Generation" ({{< resource_link c9b0d822-6f67-df57-16e1-60a3333289c9 "PDF" >}})
+"Speed Culture in the Digital Generation" ({{% resource_link c9b0d822-6f67-df57-16e1-60a3333289c9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ona Kondrotas
